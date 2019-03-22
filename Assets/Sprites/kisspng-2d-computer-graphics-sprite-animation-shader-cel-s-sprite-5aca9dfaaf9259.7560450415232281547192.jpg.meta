@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: fee47ca9f81344f429185ed2ae100fa2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_0
+    21300002: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_1
+    21300004: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_2
+    21300006: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_3
+    21300008: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_4
+    21300010: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_5
+    21300012: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_6
+    21300014: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_7
+    21300016: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_8
+    21300018: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_9
+    21300020: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_10
+    21300022: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_11
+    21300024: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_12
+    21300026: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_13
+    21300028: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_14
+    21300030: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_15
+    21300032: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_16
+    21300034: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_17
+    21300036: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_18
+    21300038: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_19
+    21300040: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_20
+    21300042: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_21
+    21300044: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_22
+    21300046: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_23
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e33b4ab7df719e4e8e3cb11e30b7b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1590
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d392f2d0bf75cb64182f3a7309e44825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1590
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a4c7c3947d404fa7169ae348c6ab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437cb8fd75794bd4e98b7f3f0cc81a8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1380
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e58eebd0fcf8e4e9cb0a856b7c8512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1380
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a606e309d5dd947981569c1a62876b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f085facc12a774cb2c48d750813cbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1170
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa964f14a5ae3d478e8b46c479d66b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1170
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe91cc5dff953b48a52947a05157c2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03251ce0f5b0cc240ab20f4ac9c14a3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 960
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f9af78376a1ba43b38ba0372c28502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 960
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d977fe76e93f5384980c945637d37f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9de767802a4f914f8caba719b50327b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 750
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2c6116749f00419168cc09ed88a8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 750
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfe494ca6de8e143a0cb47cd52ada7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0102280095251f24e97402023a753a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 540
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90250fadc6f3894493d27639f6894c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 540
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebe2ca7e04420e49ad75265817f2b8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d32967bb96f9449b0109d4ce6a5e1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 330
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6750e66b9b6396459cdcf51c8ffe192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_20
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 330
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e98b77cc507c89409934a8da8c5595d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c081f8aa6ad798b428535c45ba79a65c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a94f376add804ab938406580ca58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-2d-computer-graphics-sprite-animation-shader-cel-s-sprite-5aca9dfaaf9259.7560450415232281547192_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 120
+        width: 280
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0566e612b7f447a8c3e6c6612d759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e6af5e7a046bda949838d0d0525d40ac
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
